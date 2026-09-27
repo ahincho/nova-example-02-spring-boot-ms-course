@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: ms-course
+
+nova:
+  observability:
+    otlp:
+      endpoint: http://localhost:4318
