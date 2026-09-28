@@ -28,3 +28,9 @@ credenciales para `maven.pkg.github.com`. Para ver las trazas, `nova-shared-03-i
 levanta el collector en `localhost:4318`.
 
 Los cursos y los alumnos son datos de muestra escritos en el controlador.
+
+## License
+
+Eclipse Public License 2.0 — see [LICENSE](LICENSE).
+
+Copyright © 2026 Angel Hincho.
